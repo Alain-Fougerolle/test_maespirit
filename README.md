@@ -4,13 +4,13 @@ Test visant à appeller et transformer des données de l'api https://ll.thespace
 
 Création d'une fonction 'retrieve' pour récupérer et transformer les données dans cette configuration :
 
-{ ids, success, failure_canaveral_spacex, previousPage, nextPage } // Tous en suivant les taches décrite dans le test.
+{ ids, success, failure_canaveral_spacex, previousPage, nextPage } // Tous en suivant les tâches décrites dans le test.
 
 Ajout d'options dans la fonction 'retrieve' pour la gestion des pages et des localisations.
 
-Affichage du champ 'success' dans un tableau pour voir tous les lancements réussi sur les 10 lancements.
+Affichage du champ 'success' dans un tableau pour voir tous les lancements réussis sur les 10 lancements.
 
-Ajout de deux boutons qui demande la page suivante ou précendente pour voir plus de lancement réussi.
+Ajout de deux boutons qui demandent la page suivante ou précendente pour voir plus de lancements réussis.
 
 ## Setup
 
