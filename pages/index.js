@@ -41,7 +41,7 @@ const Home = () => {
 			<main className={ styles.main }>
 				<Stack direction='column' spacing={4}>
 					<h1 className={styles.title}>
-						Lancement réussi
+						Lancements réussis
 					</h1>
 
 					<Launch
